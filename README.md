@@ -23,7 +23,7 @@
     <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">MBTI (Myers–Briggs Type Indicator)</a>. The test is based from this <a href="http://www.lrjj.cn/encrm1.0/public/upload/MBTI-personality-test.pdf">source</a>. 
     <br />
     <br />
-    <a href="https://github.com/rauf-21/mbti-personality-test-app">View Demo</a>
+    <a href="https://r-21-mbti-personality-test-app">View Demo</a>
     ·
     <a href="https://github.com/rauf-21/mbti-personality-test-app/issues">Report Bug</a>
     ·
